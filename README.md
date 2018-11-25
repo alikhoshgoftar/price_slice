@@ -1,6 +1,8 @@
 # price_slice
 you can slice your price by this component
 
+
+
 import React from "react";
 import PriceSlice from "price-slice"
 
